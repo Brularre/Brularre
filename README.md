@@ -12,7 +12,7 @@ Me interesa mucho participar en proyectos y participar en equipos con programado
 
 ## Proyectos 🧰
 
-[![Página Ganadora Hackathon Practicum 2022](https://moody-app.netlify.app/)
+[Página Ganadora Hackathon Practicum 2022](https://moody-app.netlify.app/)
 
 
 ## Skills 🛠️
@@ -37,4 +37,4 @@ Gracias por detenerte acá :D.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brularre/)
 [![Mi Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@brularre.com)
-[![@Brularre](https://github.com/Brularre)
+[@Brularre](https://github.com/Brularre)
