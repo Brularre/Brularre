@@ -4,9 +4,15 @@
 
 Hola, soy Bruno o @Brularre.
 
-Estudié el Bootcamp de @Practicum y ahora soy aspirante a Desarrollador Full Stack, estoy aprendiendo así que aún no tengo muchos proyectos pero espero ir sumando más con el tiempo.
+Recientemente me gradué de Desarrollador Full Stack y anhelo generar experiencia y participar en proyectos cada vez más grandes.
 
-Me gusta mucho programar y espero ir avanzando para poder construir aplicaciones y software.
+He aprendido muchas cosas en mi vida y en el código he encontrado un hogar luego de un largo camino. Descubrir Javascript, sus ramas y todas las infinitas posibilidades que provee me parece increíble y estoy ansioso por seguir avanzando hacia construir aplicaciones y software.
+
+Me interesa mucho participar en proyectos y participar en equipos con programador@s más experimentados. ¡Si te puedo colaborar en algo no dudes en escribirme!
+
+## Proyectos 🧰
+
+[![Página Ganadora Hackathon Practicum 2022](https://moody-app.netlify.app/)
 
 
 ## Skills 🛠️
@@ -31,4 +37,4 @@ Gracias por detenerte acá :D.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brularre/)
 [![Mi Correo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contacto@brularre.com)
-- [@Brularre](https://github.com/Brularre)
+[![@Brularre](https://github.com/Brularre)
